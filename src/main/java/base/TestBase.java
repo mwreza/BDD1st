@@ -35,7 +35,7 @@ public class TestBase {
 	}
 	
 	
-//	public void ShutDown() {
-//		driver.close();
-//	}
+	public void ShutDown() {
+		driver.close();
+	}
 }
